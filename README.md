@@ -12,8 +12,8 @@ Install it in a script directory and chmod it +x, then call it like
 
 Dependencies
 ------------
-* Rocco [https://github.com/rtomayko/rocco]()
-* Pygments [http://pygments.org/]()
+* Rocco [https://github.com/rtomayko/rocco](https://github.com/rtomayko/rocco)
+* Pygments [http://pygments.org/](http://pygments.org/)
 
 TODO's
 ------
