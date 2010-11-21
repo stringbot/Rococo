@@ -10,6 +10,11 @@ Install it in a script directory and chmod it +x, then call it like
   $ rococo.rb http://github.com/path/to/blob/file.rb
 </pre>
 
+Dependencies
+------------
+* Rocco [https://github.com/rtomayko/rocco]()
+* Pygments [http://pygments.org/]()
+
 TODO's
 ------
 
