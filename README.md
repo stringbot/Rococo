@@ -20,4 +20,4 @@ TODO's
 Thanks
 ------
 
-Super props to Ryan Tomayko (https://github.com/rtomayko/rocco) and Jeremy Ashkenas (http://jashkenas.github.com/docco/) for writing awesome tools.
+Super props to Ryan Tomayko for [Rocco](https://github.com/rtomayko/rocco) and Jeremy Ashkenas for [Docco](http://jashkenas.github.com/docco/).
